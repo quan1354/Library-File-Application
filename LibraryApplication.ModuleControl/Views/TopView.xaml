@@ -32,8 +32,8 @@
             <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal" Cursor="Hand">
                 <!--<Image MouseLeftButtonDown="Image_MouseLeftButtonDown" Source="C:\LibraryMaterial\DhammaJataLogo.png" Width="90" Margin="20,0"/>-->
                 <!--<TextBlock MouseLeftButtonDown="Image_MouseLeftButtonDown" FontSize="25" Foreground="Aqua" VerticalAlignment="Center">DhammaJāta Arañña &#160; 法锦禅苑 图书馆</TextBlock>-->
-                <Image MouseLeftButtonDown="Image_MouseLeftButtonDown" Source="pack://application:,,,/LibraryApplication.ModuleControl;component/Views/src/GreatechIcon.png" Width="90" Margin="20,0"/>
-                <TextBlock MouseLeftButtonDown="Image_MouseLeftButtonDown" FontSize="25" Foreground="Aqua" VerticalAlignment="Center">Greatech Library &#160; 图书馆</TextBlock>
+                <Image MouseLeftButtonDown="Image_MouseLeftButtonDown" Source="pack://application:,,,/LibraryApplication.ModuleControl;component/Views/src/DogLogo.jpg" Width="90" Margin="20,0"/>
+                <TextBlock MouseLeftButtonDown="Image_MouseLeftButtonDown" FontSize="25" Foreground="Aqua" VerticalAlignment="Center">Tiramisu Library &#160; 图书馆</TextBlock>
             </StackPanel>
         </Border>
 
