@@ -15,7 +15,7 @@
             <RowDefinition Height="2*"></RowDefinition>
             <RowDefinition Height="2*"></RowDefinition>
         </Grid.RowDefinitions>
-        
+
         <Border Grid.Row="0" BorderBrush="White" BorderThickness="0 2">
             <TextBlock VerticalAlignment="Center" Foreground="White" HorizontalAlignment="Center" FontWeight="SemiBold" FontSize="15" Padding="3">Lot 327, Kampung Wellesley, 14200 Sungai Bakap, Jawi Seberang Perai Selatan, Jawi, Penang, Malaysia</TextBlock>
         </Border>
@@ -50,7 +50,7 @@
                                 YouTube
                             </Hyperlink>
                         </TextBlock>
-                        <TextBlock Foreground="White" HorizontalAlignment="Center" FontWeight="SemiBold"  FontSize="14" Grid.Column="1" TextWrapping="Wrap">https://www.youtube.com/@dhammajataaranya435</TextBlock>
+                        <TextBlock Foreground="White" HorizontalAlignment="Center" FontWeight="SemiBold"  FontSize="14" Grid.Column="1" TextWrapping="Wrap">https://www.youtube.com</TextBlock>
                     </StackPanel>
                 </Border>
 
@@ -75,7 +75,7 @@
                                 Website
                             </Hyperlink>
                         </TextBlock>
-                        <TextBlock Foreground="White" HorizontalAlignment="Center" FontWeight="SemiBold"  FontSize="14" Grid.Column="1">https://new.dhammajata.org/</TextBlock>
+                        <TextBlock Foreground="White" HorizontalAlignment="Center" FontWeight="SemiBold"  FontSize="14" Grid.Column="1">https://greatech-group.com/en/</TextBlock>
                     </StackPanel>
                 </Border>
             </Grid>
