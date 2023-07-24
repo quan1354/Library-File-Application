@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfVideo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Video>
+    <_videoID>1</_videoID>
+    <_name>Mulan  </_name>
+    <_description>This is chinese princess</_description>
+    <_path>C:\\Users\\jqchuah\\Videos\\videoplayback.mp4</_path>
+    <VideoID>1</VideoID>
+    <Name>Mulan  </Name>
+    <Description>This is chinese princess</Description>
+    <Date>2023-06-24T00:00:00</Date>
+    <Path>C:\\Users\\jqchuah\\Videos\\videoplayback.mp4</Path>
+  </Video>
+  <Video>
+    <_videoID>2</_videoID>
+    <_name>Elsa</_name>
+    <_description>Frozen movie</_description>
+    <_path>C:\\Users\\jqchuah\\Videos\\videoplayback.mp4</_path>
+    <VideoID>2</VideoID>
+    <Name>Elsa</Name>
+    <Description>Frozen movie</Description>
+    <Date>2023-06-23T00:00:00</Date>
+    <Path>C:\\Users\\jqchuah\\Videos\\videoplayback.mp4</Path>
+  </Video>
+  <Video>
+    <_videoID>23</_videoID>
+    <_name>Snow White</_name>
+    <_description>She is very white</_description>
+    <_path>C:\\Users\\jqchuah\\Videos\\videoplayback.mp4</_path>
+    <VideoID>23</VideoID>
+    <Name>Snow White</Name>
+    <Description>She is very white</Description>
+    <Date>2023-07-07T00:00:00</Date>
+    <Path>C:\\Users\\jqchuah\\Videos\\videoplayback.mp4</Path>
+  </Video>
+</ArrayOfVideo>
