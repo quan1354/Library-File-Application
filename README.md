@@ -10,5 +10,7 @@ The unique of this application than file explorer behavior is can add-on descrip
 * Create a folder name "LibraryMaterial" at C Drive
 
 # Sample Output
-<img width="961" alt="image" src="https://github.com/quan1354/Library-File-Application/assets/67883068/1345cc0f-4c40-4bfe-9b6d-d2206f16e883">
-<img width="959" alt="image" src="https://github.com/quan1354/Library-File-Application/assets/67883068/8d1fb2f4-6949-4c93-8382-7c0a577431b5">
+<img width="961" alt="255547290-1345cc0f-4c40-4bfe-9b6d-d2206f16e883" src="https://github.com/quan1354/Library-File-Application/assets/67883068/e1875f22-5040-420f-9f0c-bf2b372179c2">
+<img width="959" alt="255548398-8d1fb2f4-6949-4c93-8382-7c0a577431b5" src="https://github.com/quan1354/Library-File-Application/assets/67883068/c122dea7-e04d-4281-ab99-24d7c05ee2b0">
+
+
