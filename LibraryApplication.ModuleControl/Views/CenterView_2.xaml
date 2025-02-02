@@ -1,0 +1,93 @@
+﻿<UserControl x:Class="LibraryApplication.ModuleControl.Views.CenterView_2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LibraryApplication.ModuleControl.Views"
+             mc:Ignorable="d" 
+             
+             xmlns:pdf="clr-namespace:O2S.Components.PDFView4NET.WPF;assembly=O2S.Components.PDFView4NET.WPF"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <StackPanel Background="Cornsilk" Orientation="Vertical">
+
+        <TextBlock Background="DimGray" TextAlignment="Center" Foreground="Bisque" Width="900" Text="{Binding DocumentTitle}" FontSize="30" Margin="0,15"></TextBlock>
+
+        <pdf:PDFPageView  Height="Auto" Width="900" x:Name="pdfViewer"  Document="{Binding PdfDocument}" Visibility="{Binding PDFVisibility}" Margin="0,0,0,20"/>
+
+        <StackPanel Visibility="{Binding PDFVisibility}" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+            <Button Click="PreviousPage_Click"  FontWeight="SemiBold" FontSize="20" Padding="10" Width="100" Margin="0 0 30 0">Previous</Button>
+            <Button Click="NextPage_Click" Width="100" FontWeight="SemiBold" FontSize="20" Padding="10">Next</Button>
+        </StackPanel>
+
+        <!-- Use an ItemsControl to display the pages of the PDF -->
+        <!--<ItemsControl ItemsSource="{Binding PdfDocument.Pages}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    --><!-- Use the PDFPageView control to display each page --><!--
+                    <pdf:PDFPageView Document="{Binding}" />
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>-->
+
+
+        <Grid Width="900" Visibility="{Binding PPTXVisibility}">
+            <ScrollViewer Grid.Row="0" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <ItemsControl x:Name="slidesContainer" HorizontalContentAlignment="Left" VerticalContentAlignment="Top">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Horizontal" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                </ItemsControl>
+            </ScrollViewer>
+        </Grid>
+
+        <Border Height="400" Visibility="{Binding ImageVisibility}" Width="900" Margin="0,0,0,10">
+            <Image Source="{Binding ImageUrl}"/>
+        </Border>
+
+        <Border Margin="10" HorizontalAlignment="Center" VerticalAlignment="Center" Background="LightSkyBlue" Width="900" BorderBrush="Blue" BorderThickness="2">
+            <StackPanel>
+                <TextBlock HorizontalAlignment="Center" FontSize="24"><Bold><Underline>Description</Underline></Bold></TextBlock>
+                <FlowDocumentScrollViewer ScrollViewer.VerticalScrollBarVisibility="Auto">
+                    <FlowDocument IsOptimalParagraphEnabled="True" IsHyphenationEnabled="True">
+                        <Paragraph FontSize="24" FontFamily="Arial">
+                            <Run Text="{Binding DescriptionContent}"></Run>
+                        </Paragraph>
+                    </FlowDocument>
+                </FlowDocumentScrollViewer>
+            </StackPanel>
+        </Border>
+        <Button Command="{Binding OpenPDF}" Width="900" Visibility="{Binding PDFVisibility}" FontWeight="SemiBold" FontSize="20" Padding="20" Margin="0,0,0,10">CLICK TO OPEN PDF IN BROWSER</Button>
+        <Border Background="SandyBrown" BorderBrush="Brown" BorderThickness="3" HorizontalAlignment="Center" VerticalAlignment="Center" Width="900">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <CheckBox Margin="5,8" Command="{Binding TermCheckBoxClick}"></CheckBox>
+                <Button Background="Transparent" Margin="0" BorderBrush="Transparent" BorderThickness="0" Command="{Binding TermAndConditionDialog}">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <ContentPresenter />
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Cursor" Value="Hand" />
+                                    <Setter Property="Foreground" Value="Blue"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <TextBlock FontSize="20" FontWeight="DemiBold" TextDecorations="Underline" Cursor="Hand">Term and Condition</TextBlock>
+                </Button>
+            </StackPanel>
+        </Border>
+        <Border Background="SandyBrown" Margin="0,0,0,20" BorderBrush="Brown" BorderThickness="3,0,3,3" HorizontalAlignment="Center" VerticalAlignment="Center" Width="900">
+            <Button FontSize="22" IsEnabled="{Binding DownloadIsClick}" Content="Download" Command="{Binding DownloadBtnClick}"></Button>
+        </Border>
+    </StackPanel>
+</UserControl>

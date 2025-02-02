@@ -1,0 +1,65 @@
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.lref
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\Themes\Generic.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.g.resources
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.Properties.Resources.resources
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.GenerateResource.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.lref
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\Themes\Generic.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.g.resources
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.Properties.Resources.resources
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.GenerateResource.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.lref
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\Themes\Generic.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.g.resources
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.Properties.Resources.resources
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.GenerateResource.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.AssemblyReference.cache
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.cache
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.lref
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\Themes\Generic.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.g.resources
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.Properties.Resources.resources
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.GenerateResource.cache
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.AssemblyReference.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl_MarkupCompile.lref
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\Themes\Generic.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.g.resources
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.Properties.Resources.resources
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.GenerateResource.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.CoreCompileInputs.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\Debug\LibraryApplication.Vinyl.csproj.CopyComplete

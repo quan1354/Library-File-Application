@@ -1,0 +1,223 @@
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.AssemblyReference.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.lref
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.g.resources
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.Properties.Resources.resources
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.GenerateResource.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CopyComplete
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.g.cs
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.baml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.AssemblyReference.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.lref
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.g.resources
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.Properties.Resources.resources
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.GenerateResource.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CopyComplete
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView_2.g.cs
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView_2.baml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\O2S.Components.PDFView4NET.WPF.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\O2S.Components.PDFView4NET.WPF.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\O2S.Components.PDFView4NET.WPF.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Prism.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\O2S.Components.PDFView4NET.WPF.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Prism.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Prism.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.AssemblyReference.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView_2.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.g.cs
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.lref
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView_2.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.baml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.g.resources
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.Properties.Resources.resources
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.GenerateResource.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CopyComplete
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\O2S.Components.PDFView4NET.WPF.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\O2S.Components.PDFView4NET.WPF.xml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.xml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.pdb
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.xml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.AssemblyReference.cache
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView_2.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.g.cs
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.cache
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.lref
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView_2.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.baml
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.g.resources
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.Properties.Resources.resources
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.GenerateResource.cache
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CopyComplete
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jqchuah\Desktop\LibraryApplication\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\O2S.Components.PDFView4NET.WPF.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Prism.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\O2S.Components.PDFView4NET.WPF.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Prism.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Prism.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Prism.Wpf.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.AssemblyReference.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView_2.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl_MarkupCompile.lref
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Dialogs\AddDescriptionDialog.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Dialogs\GeneralDialog.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Dialogs\LoginDialog.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Dialogs\UpdateFormDialog.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\BottomView.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\CenterView_2.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\HomeView.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\Views\TopView.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.g.resources
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.Properties.Resources.resources
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.GenerateResource.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CoreCompileInputs.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.ModuleControl\obj\Debug\LibraryApplication.ModuleControl.csproj.CopyComplete

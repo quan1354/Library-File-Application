@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVideoDescription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VideoDescription>
+    <VideoDescription>龙卷风</VideoDescription>
+    <Description>123
+123</Description>
+  </VideoDescription>
+  <VideoDescription>
+    <VideoDescription>搁浅</VideoDescription>
+    <Description>1&#xD;
+a</Description>
+  </VideoDescription>
+</ArrayOfVideoDescription>

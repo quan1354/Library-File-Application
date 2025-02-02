@@ -1,0 +1,16 @@
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\bin\x64\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\bin\x64\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl_MarkupCompile.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl_MarkupCompile.lref
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\Themes\Generic.baml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl.g.resources
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl.Properties.Resources.resources
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl.csproj.GenerateResource.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl.csproj.CoreCompileInputs.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl.csproj.CopyComplete
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Vinyl\obj\x64\Debug\LibraryApplication.Vinyl.csproj.AssemblyReference.cache

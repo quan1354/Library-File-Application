@@ -1,0 +1,147 @@
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\CommonServiceLocator.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\DryIoc.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Wpf.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\System.Data.SqlClient.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Unity.Abstractions.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Unity.Container.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\DryIoc.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Wpf.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Wpf.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Unity.Abstractions.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\bin\Debug\Unity.Container.pdb
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.Properties.Resources.resources
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.GenerateResource.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.CopyComplete
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\source\repos\LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\CommonServiceLocator.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\DryIoc.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Wpf.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\System.Data.SqlClient.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Unity.Abstractions.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Unity.Container.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\DryIoc.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Wpf.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Prism.Wpf.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Unity.Abstractions.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\bin\Debug\Unity.Container.pdb
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.Properties.Resources.resources
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.GenerateResource.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.CopyComplete
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\Desktop\DD_LibraryApplication\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\CommonServiceLocator.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\DryIoc.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.Wpf.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\System.Data.SqlClient.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Unity.Abstractions.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Unity.Container.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\DryIoc.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.Wpf.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Prism.Wpf.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Unity.Abstractions.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\bin\Debug\Unity.Container.pdb
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.Properties.Resources.resources
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.GenerateResource.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.CopyComplete
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.dll
+C:\Users\jqchuah\Desktop\GG_LibraryApplication - Copy\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\LibraryApplication.Core.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\LibraryApplication.Core.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\CommonServiceLocator.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\DryIoc.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.Wpf.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\System.Data.SqlClient.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Unity.Abstractions.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Unity.Container.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\DryIoc.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.DryIoc.Wpf.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.Wpf.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Prism.Wpf.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Unity.Abstractions.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Unity.Container.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.AssemblyReference.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.Properties.Resources.resources
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.GenerateResource.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.pdb
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jingq\OneDrive\Desktop\Library-File-Application-master\LibraryApplication.Core\obj\Debug\LibraryApplication.Core.csproj.CopyComplete
